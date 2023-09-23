@@ -1,4 +1,4 @@
-#**3D Camera Test**
+# 3D Camera Test
 
 [Try here](https://camera-test.handyrandy.repl.co/). A project for my Math IA written from scratch in JavaScript. Render shapes in 3D based on camera translation and rotations. Control camera position with arrow keys, space (up) and shift (down).
 
